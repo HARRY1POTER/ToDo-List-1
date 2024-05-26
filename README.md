@@ -5,9 +5,13 @@ This is a simple To-Do List application built with React. It allows users to add
 `Features`
 
 `Add Task:` Users can add new tasks to the to-do list.
+
 `Edit Task:` Users can edit existing tasks.
+
 `Delete Task:` Users can delete tasks from the list.
+
 `Sort Tasks:` Users can sort tasks by completion status (complete/incomplete).
+
 `Strike Through Completed Tasks:` Completed tasks are displayed with a strikethrough.
 
 `Usage`
