@@ -1,8 +1,8 @@
-**To-Do List Application**
+# **To-Do List Application**
 
 This is a simple To-Do List application built with React. It allows users to add, edit, delete, and sort tasks based on their completion status. Additionally, completed tasks are struck through to indicate their completion.
 
-**Features**
+# **Features**
 
 `Add Task:` Users can add new tasks to the to-do list.
 
@@ -14,7 +14,7 @@ This is a simple To-Do List application built with React. It allows users to add
 
 `Strike Through Completed Tasks:` Completed tasks are displayed with a strikethrough.
 
-**Usage**
+# **Usage**
 
 `Adding a Task`
 To add a new task, type the task description in the input field and press the "Add Task" button.
