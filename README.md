@@ -1,32 +1,3 @@
-# **To-Do List Application**
+## Description
 
-This is a simple To-Do List application built with React. It allows users to add, edit, delete, and sort tasks based on their completion status. Additionally, completed tasks are struck through to indicate their completion.
-
-# **Features**
-
-`Add Task:` Users can add new tasks to the to-do list.
-
-`Edit Task:` Users can edit existing tasks.
-
-`Delete Task:` Users can delete tasks from the list.
-
-`Sort Tasks:` Users can sort tasks by completion status (complete/incomplete).
-
-`Strike Through Completed Tasks:` Completed tasks are displayed with a strikethrough.
-
-# **Usage**
-
-`Adding a Task`
-To add a new task, type the task description in the input field and press the "Add Task" button.
-
-`Editing a Task`
-To edit a task, click on the edit icon next to the task, modify the text, and press the save button.
-
-`Deleting a Task`
-To delete a task, click on the delete icon next to the task.
-
-`Sorting Tasks`
-To sort tasks, click the "Sort by Complete/Incomplete" button. This will toggle between sorting the tasks by their completion status.
-
-`Striking Through Completed Tasks`
-Completed tasks will be displayed with a strikethrough to indicate they have been completed.
+The Interactive Dictionary Application is a user-friendly software designed to provide quick and accurate definitions for words entered by users. This project aims to develop a comprehensive and interactive dictionary that not only delivers precise meanings but also enhances the learning experience with additional features. Users can search for words to retrieve detailed definitions, example sentences, synonyms, antonyms, and pronunciation guides. The intuitive design and responsive layout ensure easy navigation and compatibility with various devices, making it an essential tool for students, writers, language learners, and general users.
