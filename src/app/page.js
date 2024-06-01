@@ -48,7 +48,7 @@ const Dictionary = () => {
       setPhonetics(phoneticList);
       setError("");
     } catch (error) {
-      setError("Word not found.");
+      setError("Word not found. ");
       setDefinition("");
       setSynonyms([]);
       setAntonyms([]);
